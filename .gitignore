@@ -1,1 +1,5 @@
-File.txt
+/log
+/build
+*.tmp
+*.pdf
+*.log
